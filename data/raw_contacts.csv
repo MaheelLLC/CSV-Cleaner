@@ -1,0 +1,8 @@
+id,name,email,age,city
+1,"  amina yusuf  "," AMINA@example.com ",24," Riyadh "
+2,omar ali,omar@EXAMPLE.com,31,Jeddah
+3,,noname@example.com,28,Dammam
+4,Sara K,not-an-email,22,Riyadh
+5,Jamal,jamal@example.com,unknown,Riyadh
+6,fatima," fatima@example.com ",19,
+7,Omar Ali,OMAR@example.com,31,Jeddah
